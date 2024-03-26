@@ -2,4 +2,4 @@
 
 This is a place for python experiments by Erik.
 
-This change was made in a Got Codespace.
+This change was made in a Git Codespace.
